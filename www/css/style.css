@@ -2,13 +2,13 @@
   background: #212121!important;
 }
 
-.logo {
-  height: 100px;
-  background: #212121;
+.content-home {
+  background: url('http://www.lifewaysport.com.br/site/web//resources/colecao/1491749500_MG_9103-01.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .banner {
-  background: url('http://www.lifewaysport.com.br/site/web//resources/colecao/1491749500Life%20Way%20Jeans-469.jpg');
-  background-position: center;
   width: 100%;
+  height: 400px;
 }

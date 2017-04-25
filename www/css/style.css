@@ -12,3 +12,13 @@
   width: 100%;
   height: 400px;
 }
+
+.bar-title {
+  background: #f44336;
+  padding: 10px;
+  padding-top: 15px;
+  height: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+}

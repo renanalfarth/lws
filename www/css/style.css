@@ -1,0 +1,14 @@
+.bar-dark {
+  background: #212121!important;
+}
+
+.logo {
+  height: 100px;
+  background: #212121;
+}
+
+.banner {
+  background: url('http://www.lifewaysport.com.br/site/web//resources/colecao/1491749500Life%20Way%20Jeans-469.jpg');
+  background-position: center;
+  width: 100%;
+}
